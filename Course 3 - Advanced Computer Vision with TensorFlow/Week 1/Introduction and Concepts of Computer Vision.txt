@@ -9,7 +9,7 @@
     
 3. What is the method that locates an object(s) by labelling the pixels, where each similar object(s) is assigned to the same class? Type your response here 
     (two words, all lower case).
-    * ***_______________________***
+    * ***semantic segmentation***
     
 4. In the context of Transfer Learning, the initial training task where the model learns reusable patterns is called a downstream task.
     * ***False***
